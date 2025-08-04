@@ -1,4 +1,4 @@
-🎭 Simple-Console-Calculator
+🎭 Simple-Console-Calculator !!
 
 📦 In this calculator task, I have implemented Java OOP concepts, methods, and conditional loops to enable the user to perform multiple calculations until they choose to exit.
 
@@ -13,6 +13,7 @@
 📦 Once an operation is selected, the user is prompted to enter two numbers on which the calculation will be performed.
 
 📦 A switch statement is used to handle the selected operation. Based on the user's choice, the corresponding case is executed, and the result of the calculation is displayed.
+
 
 📌 References :-
 
